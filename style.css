@@ -10,6 +10,7 @@ body{
     background-color: var(--fundo);
     font-size: 35px;
     margin: 20px;
+    color: #000;
 }
 
 footer{
