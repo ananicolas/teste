@@ -8,7 +8,8 @@
 
 body{
     background-color: var(--fundo);
-
+    font-size: 35px;
+    margin: 20px;
 }
 
 footer{
